@@ -13,3 +13,9 @@
 ### [GE03 Project Board Link](https://github.com/users/nengler1/projects/1/)
 
 ### [GE03 Scrum Coach Document](https://docs.google.com/document/d/1RNLLmGAhAJ6c_3iHO3q_2tUIW6hlADcpiYcARV46OoY/edit?usp=sharing)
+
+## GE04
+
+### [GE04 Project Board Link](https://github.com/users/nengler1/projects/1/)
+
+### [GE04 Scrum Coach Document]()

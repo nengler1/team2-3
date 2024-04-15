@@ -22,6 +22,6 @@
 
 ## Sprint02
 
-### [Sprint02 Project Board Link](https://github.com/users/LDELZ/projects/5/views/1))
+### [Sprint02 Project Board Link](https://github.com/users/LDELZ/projects/5/views/1)
 
 ### [Sprint02 Scrum Coach Document](https://docs.google.com/document/d/14qYElMBVs7pz8VuEIi8-ztFEKcTpylMK9Uk3GGplqYw/edit)

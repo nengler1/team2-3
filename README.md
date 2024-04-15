@@ -19,3 +19,9 @@
 ### [GE04 Project Board Link](https://github.com/users/nengler1/projects/1/)
 
 ### [GE04 Scrum Coach Document](https://docs.google.com/document/d/1bXE_gbO7W61NalaqTccOTtN4icDu09oLQQi-c3arpmg/edit?usp=sharing)
+
+## Sprint02
+
+### [Sprint02 Project Board Link](https://github.com/users/LDELZ/projects/5/views/1))
+
+### [Sprint02 Scrum Coach Document](https://docs.google.com/document/d/14qYElMBVs7pz8VuEIi8-ztFEKcTpylMK9Uk3GGplqYw/edit)
